@@ -1,5 +1,5 @@
 # XKCDViewer
-An app created with the XKCD comic API and Flickr API to view comics and produce a (semi) related photo
+An app created with the XKCD comic API and Flickr API to view comics and produce a (semi) related photo. Written in javacsript using Kinoma Studio.
 
 
 <h4>Description</h4>
